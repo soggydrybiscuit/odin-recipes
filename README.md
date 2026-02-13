@@ -1,4 +1,4 @@
-This project was made tot est my HTML skills that I learnt while doing the Odin Project.
+This project was made to test my HTML skills that I learnt while doing The Odin Project.
 It entails creating a website using HTML skills that I learned throughout the course.
 The actual coding of the website was not too difficult as all three different recipes involved the same format.
 I struggled with understanding how the git commit messages worked and how to do them but I figured it out in the end.
